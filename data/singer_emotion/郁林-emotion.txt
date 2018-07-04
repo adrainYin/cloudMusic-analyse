@@ -1,0 +1,6 @@
+positive_prob=0.132601 negative_prob=0.867399 sentiment=0
+positive_prob=0.0311798 negative_prob=0.96882 sentiment=0
+positive_prob=0.841128 negative_prob=0.158872 sentiment=2
+positive_prob=0.11311 negative_prob=0.88689 sentiment=0
+positive_prob=0.0221327 negative_prob=0.977867 sentiment=0
+positive_prob=0.0482931 negative_prob=0.951707 sentiment=0
