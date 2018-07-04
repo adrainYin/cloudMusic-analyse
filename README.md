@@ -41,7 +41,7 @@
 (5)做了一个赵雷的词云:
 ![赵雷](https://github.com/adrainYin/cloudMusic-analyse/raw/master/png/zhaolei_wordcloud.png)
 
-##如何使用
+## 如何使用
 
 (1)直接可以打开results中的.html文件，观察可视化内容。
 
